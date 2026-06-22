@@ -11,28 +11,28 @@
 
 ### Задание 1 (Простое)
 **Тест:** Проверка создания клиента
-![Тест 1](screenshots/task1.png)
+![Тест 1](Screenshots/Lab2.1_task1.png)
 
 ### Задание 2 (Среднее)
 **Тесты:** 
 - проверка добавления предмета
 - проверка отметки о доставке
-![Тест 2](screenshots/task2.png)
+![Тест 2](Screenshots/Lab2.1_task2.png)
 
 ### Задание 3 (Сложное)
 **Тест:** Проверка статического счетчика операций
-![Тест 3](screenshots/task3.png)
+![Тест 3](Screenshots/Lab2.1_task3.png)
 
 ---
 
 ## 📊 Результаты
-![Все тесты пройдены](screenshots/all-tests.png)
-![Покрытие кода](screenshots/Lab2.1_coverage.png)
+![Все тесты пройдены](Screenshots/Lab2.1_all_tests.png)
+![Покрытие кода](Screenshots/Lab2.1_coverage.png)
 
 ---
 
 ## 📎 Ссылки
-- [Код тестов](src/test/java/CalculatorTest.java)
-- [Основной класс](src/main/java/Calculator.java)
+- [Код тестов](src/OnlineOrderTest.java)
+- [Основной класс](src/OnlineOrder.java)
 
 *Дата: 22.06.2026*
